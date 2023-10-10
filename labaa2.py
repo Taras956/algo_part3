@@ -1,3 +1,4 @@
+#lab2
 import unittest
 
 def shopping(prices, discount):
